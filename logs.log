@@ -1,0 +1,115 @@
+2024-02-25 16:14:53.129 | ERROR    | utils.utils:get_wallets:79 - The number of wallets and proxies does not match.
+2024-02-25 16:15:27.590 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0xBB30B26dD7fBE12bb7fEc09DeA69D0604Fe60B7d | Sleep 332 seconds, before starting work.
+2024-02-25 16:17:56.133 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0xBB30B26dD7fBE12bb7fEc09DeA69D0604Fe60B7d | Sleep 35 seconds, before starting work.
+2024-02-25 16:18:31.974 | WARNING  | utils.wrappers:wrapper:17 - The gas value is higher than the value set in MAX_GAS. Expecting a decrease in the GAS price. Current gas: 41 gwei.
+2024-02-25 16:19:15.646 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0xBB30B26dD7fBE12bb7fEc09DeA69D0604Fe60B7d | Sleep 28 seconds, before starting work.
+2024-02-25 16:19:44.611 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0xBB30B26dD7fBE12bb7fEc09DeA69D0604Fe60B7d | Bridge in gnosis 0.0155 MATIC.
+2024-02-25 16:20:16.803 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0xBB30B26dD7fBE12bb7fEc09DeA69D0604Fe60B7d | https://polygonscan.com/tx/0x8e2ff557497134417b3794a13cbfafce21bcd9bbcaeef02d8d85c5d511c4d35e successfully!
+2024-02-25 16:36:47.588 | ERROR    | utils.utils:get_wallets:79 - The number of wallets and proxies does not match.
+2024-02-25 16:37:33.858 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 710 seconds, before starting work.
+2024-02-25 16:38:18.862 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 212 seconds, before starting work.
+2024-02-25 16:41:53.440 | WARNING  | utils.wrappers:wrapper:17 - The gas value is higher than the value set in MAX_GAS. Expecting a decrease in the GAS price. Current gas: 51 gwei.
+2024-02-25 16:52:31.855 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 12 seconds, before starting work.
+2024-02-25 16:52:44.755 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in fuse 0.0588 MATIC.
+2024-02-25 16:55:06.466 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 157 seconds, before starting work.
+2024-02-25 16:57:45.929 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in moonbeam 0.0291 MATIC.
+2024-02-25 16:57:58.716 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0xaf5eca6ffcfadebeb5de853acac98e6c3b674c742db5f0fb4b6b5cf91f0e4c51 successfully!
+2024-02-25 16:59:31.227 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 153 seconds, before starting work.
+2024-02-25 17:02:06.762 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in moonbeam 0.0717 MATIC.
+2024-02-25 17:02:18.753 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x4c2876c67a5c22d5d340113ab465b11412e150f998055a4f51873aa1f64ef5c6 successfully!
+2024-02-25 17:02:18.759 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 35 seconds.
+2024-02-25 17:02:54.442 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in moonbeam 0.0391 MATIC.
+2024-02-25 17:03:06.327 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0xefb998a167592db6cb678f63bddd82e88aded61fe7e3c649b700b0842c2956d9 successfully!
+2024-02-25 17:03:06.333 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 37 seconds.
+2024-02-25 17:03:44.126 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in moonbeam 0.0389 MATIC.
+2024-02-25 17:06:42.927 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 348 seconds, before starting work.
+2024-02-25 17:06:57.031 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 311 seconds, before starting work.
+2024-02-25 17:09:47.541 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 116 seconds, before starting work.
+2024-02-25 17:11:45.422 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in gnosis 0.0251 MATIC.
+2024-02-25 17:12:07.688 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x3fd855765c482ea9ac44e479f233fe38d26cc181d81f0fe5b073061b59c08228 successfully!
+2024-02-25 17:12:33.071 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 55 seconds.
+2024-02-25 17:13:28.933 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in moonbeam 0.0491 MATIC.
+2024-02-25 17:13:45.411 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0xf522ca20e0e8edef50820e37b25cd6f0dc5f7a0b71c7a80afa4ea850b481c9d3 successfully!
+2024-02-25 17:13:45.416 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 49 seconds.
+2024-02-25 17:14:35.294 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in klaytn 0.0298 MATIC.
+2024-02-25 17:15:58.868 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0xcd3bf1aabb7ccabdd56d91f6b9b2e6d9ce64df43fc7eb2a00595aedb2d14d1d7 successfully!
+2024-02-25 17:15:58.872 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 58 seconds.
+2024-02-25 17:17:19.320 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 16 seconds, before starting work.
+2024-02-25 17:17:37.419 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in klaytn 0.0344 MATIC.
+2024-02-25 17:17:49.450 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x8a2c6fe2742bc14331abdcc56fff79805a6e042b3a47e890b1ec1d36db1d7ce7 successfully!
+2024-02-25 17:17:49.456 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 97 seconds.
+2024-02-25 17:19:27.731 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in moonbeam 0.045 MATIC.
+2024-02-25 17:19:39.667 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0xc4d77ace31ae6dc6eb42e2df57d5e812786e80c1ba3a6483f58f471826c442fa successfully!
+2024-02-25 17:19:39.674 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 74 seconds.
+2024-02-25 17:20:54.748 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in gnosis 0.0372 MATIC.
+2024-02-25 17:21:06.449 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0xada3ac724d969e3129deb055c04cbf500f8d1c2ede17ad4e80ea860e9890f8cc successfully!
+2024-02-25 17:21:06.456 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 118 seconds.
+2024-02-25 17:23:06.054 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in klaytn 0.022 MATIC.
+2024-02-25 17:23:28.507 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x30a7bf3972cfd1a7b5542c4755d362743da5285f72f8402a6dcc34f42adb328a successfully!
+2024-02-25 17:23:28.514 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 105 seconds.
+2024-02-25 17:25:14.946 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in gnosis 0.0306 MATIC.
+2024-02-25 17:25:28.153 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x9695fbb30ca13383c41177a78ccb0d4e1e6a65cecf914a5486fe5253db5b46aa successfully!
+2024-02-25 17:25:28.160 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 99 seconds.
+2024-02-25 17:27:08.564 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in gnosis 0.0292 MATIC.
+2024-02-25 17:27:20.683 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0xe6ccdfdea0a1e92d4cff29362eeea5fb2e911f4e0cd1db557612cc730838c6ac successfully!
+2024-02-25 17:27:20.689 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 85 seconds.
+2024-02-25 17:28:47.044 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in gnosis 0.041 MATIC.
+2024-02-25 17:28:58.570 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x1142801d13f9cc96b9b3d6c25716e9316ec47b11e95d201e346df6b8993ce0d7 successfully!
+2024-02-25 17:28:58.577 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 125 seconds.
+2024-02-25 17:31:05.208 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in moonbeam 0.0436 MATIC.
+2024-02-25 17:31:27.493 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x03e414ef950f3ec9455d88b64bd37bfd610b4717fb3a8ffbc0cc929cb5af63d2 successfully!
+2024-02-25 17:31:27.501 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 65 seconds.
+2024-02-25 17:32:33.573 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in moonbeam 0.0441 MATIC.
+2024-02-25 17:32:45.305 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x7594576e61f7b7aeb305f21cec48917c48e7c78ddead4f2cdfdbec67e8179301 successfully!
+2024-02-25 17:32:45.312 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 117 seconds.
+2024-02-25 17:34:44.424 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in klaytn 0.0314 MATIC.
+2024-02-25 17:35:17.547 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x40679d013813e5b396d59c2ea8c23cebef41081633bd4a51cf9a1aedf1f3620d successfully!
+2024-02-25 17:35:17.554 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 121 seconds.
+2024-02-25 17:37:20.316 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in gnosis 0.0297 MATIC.
+2024-02-25 17:37:32.327 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0xcd6f010de6a3b83111e54360de10a8e9898d9881e5791ef9a4c45c6eef2e4898 successfully!
+2024-02-25 17:37:32.333 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 103 seconds.
+2024-02-25 17:39:17.236 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in klaytn 0.027 MATIC.
+2024-02-25 17:39:29.618 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x7a669300218318a95b54c845ff28f6308a7b2a88e35f8389c54c1348cc697b53 successfully!
+2024-02-25 17:39:29.624 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 66 seconds.
+2024-02-25 17:40:36.752 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in moonbeam 0.0435 MATIC.
+2024-02-25 17:40:48.641 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x38bed10c1b7e9ffafe13497da67554e11b3084643ff5ddd12430715c25315c2f successfully!
+2024-02-25 17:40:48.647 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 124 seconds.
+2024-02-25 17:52:10.252 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 24 seconds, before starting work.
+2024-02-25 17:52:35.267 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in moonbeam 0.0374 MATIC.
+2024-02-25 17:52:57.725 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x61881d9d1dc414e691952f8c8e27cf84d05d8f9663983ad740808897a3c0c02c successfully!
+2024-02-25 17:52:57.732 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 92 seconds.
+2024-02-25 17:53:47.516 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 24 seconds, before starting work.
+2024-02-25 17:54:12.488 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in celo 0.0353 MATIC.
+2024-02-25 17:54:24.422 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x03ad0388c0fd4c6150aabe4d62158f2c0dd024ae6b84e12964f27929ce572110 successfully!
+2024-02-25 17:54:24.428 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 266 seconds.
+2024-02-25 17:54:54.649 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 28 seconds, before starting work.
+2024-02-25 17:55:24.727 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in gnosis 0.0226 MATIC.
+2024-02-25 17:56:29.465 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x5dee8b44bb4236ca70423eb8934c9c30092db901569ffc2045a8459abd6f57da successfully!
+2024-02-25 17:56:29.472 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 236 seconds.
+2024-02-25 18:00:28.296 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in gnosis 0.0227 MATIC.
+2024-02-25 18:00:40.205 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x68fb36d0e56a50c3feffc7d14c57558ceda1b7dfaaef6b3e8d23ad2820c34199 successfully!
+2024-02-25 18:00:40.212 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 322 seconds.
+2024-02-25 18:06:05.751 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in klaytn 0.027 MATIC.
+2024-02-25 18:06:17.656 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x187ed40d19a3a529934a05509f994427103607e6ebf28d3f031e715fb9cd7afd successfully!
+2024-02-25 18:06:17.663 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 245 seconds.
+2024-02-25 18:10:25.436 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in moonbeam 0.0343 MATIC.
+2024-02-25 18:10:37.018 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0xe6cd530d370d0ef8b1ce90d351138764c6baf2bec8d8f6e50b39bf88c0b7188c successfully!
+2024-02-25 18:10:37.024 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 251 seconds.
+2024-02-25 18:14:50.929 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in klaytn 0.034 MATIC.
+2024-02-25 18:15:03.202 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0xbf69731a8bbf103a37fcb1d0c56cdd852f0a7f170c01ce76f97cc8440390aa9b successfully!
+2024-02-25 18:15:03.210 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 314 seconds.
+2024-02-25 18:18:19.170 | INFO     | utils.utils:async_sleep:22 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 19 seconds, before starting work.
+2024-02-25 18:18:19.176 | INFO     | utils.utils:async_sleep:22 - Account №2 | 0x5892f4cca8f88a147F48bd606e96AA7dd8089f7A | Sleep 2 seconds, before starting work.
+2024-02-25 18:18:21.857 | INFO     | modules.merkly:merkly_refuel:41 - Account №2 | 0x5892f4cca8f88a147F48bd606e96AA7dd8089f7A | Bridge in moonbeam 0.0479 MATIC.
+2024-02-25 18:18:38.780 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in moonbeam 0.0207 MATIC.
+2024-02-25 18:18:44.061 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №2 | 0x5892f4cca8f88a147F48bd606e96AA7dd8089f7A | https://polygonscan.com/tx/0x907fdc7de00f059f5403e8eb5e662a8b86a5fb415be52b82858306bb917669b6 successfully!
+2024-02-25 18:18:44.067 | INFO     | utils.utils:async_sleep:20 - Account №2 | 0x5892f4cca8f88a147F48bd606e96AA7dd8089f7A | Sleep 185 seconds.
+2024-02-25 18:19:11.632 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0x6647f933e65ffd0a389f820e6e85c6006a3ff1d3f62b6eb88677aeb99d55a6c6 successfully!
+2024-02-25 18:19:11.639 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 394 seconds.
+2024-02-25 18:21:51.490 | INFO     | modules.merkly:merkly_refuel:41 - Account №2 | 0x5892f4cca8f88a147F48bd606e96AA7dd8089f7A | Bridge in klaytn 0.0395 MATIC.
+2024-02-25 18:22:03.958 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №2 | 0x5892f4cca8f88a147F48bd606e96AA7dd8089f7A | https://polygonscan.com/tx/0xed3d3985831286cb8b7836a40300b9d726a5369ff9b42ecbb67b27fc92946ad7 successfully!
+2024-02-25 18:22:03.964 | INFO     | utils.utils:async_sleep:20 - Account №2 | 0x5892f4cca8f88a147F48bd606e96AA7dd8089f7A | Sleep 194 seconds.
+2024-02-25 18:25:20.824 | INFO     | modules.merkly:merkly_refuel:41 - Account №2 | 0x5892f4cca8f88a147F48bd606e96AA7dd8089f7A | Bridge in gnosis 0.0263 MATIC.
+2024-02-25 18:25:50.486 | INFO     | modules.merkly:merkly_refuel:41 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Bridge in moonbeam 0.0334 MATIC.
+2024-02-25 18:26:02.423 | SUCCESS  | classes.Account:wait_until_tx_finished:98 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | https://polygonscan.com/tx/0xa42e96b28e2ea4f5b404b71fb8bd7e4c3aa63b03535a690b8bbdda5eb6115e9c successfully!
+2024-02-25 18:26:02.430 | INFO     | utils.utils:async_sleep:20 - Account №1 | 0x66D1f600b54B9C2576ba45cfd2090aC8E941db2E | Sleep 364 seconds.
